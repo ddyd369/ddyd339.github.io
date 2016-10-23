@@ -1,6 +1,6 @@
 {
   "name": "downloadpengpeng",
   "tagline": "",
-  "body": "\r\n\r\n<a href=\"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/ddyd369/test/master/pengpeng.plist\">install pengpeng</a>\r\n\r\n\r\n",
+  "body": "\r\nitms-services://?action=download-manifest&url=https://raw.githubusercontent.com/ddyd369/test/master/pengpeng.plist\r\n<br>\r\n<a href=\"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/ddyd369/test/master/pengpeng.plist\">点此出安装烹烹</a>\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
